@@ -1,0 +1,11 @@
+---
+title: "merging_markdown"
+output: html_document
+date: "2022-08-23"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hey Amrit, this is the line that we will both change
